@@ -1,0 +1,33 @@
+*{
+  background-color: rgb(19,22,31);
+}
+#caixa{
+	background-color: rgb(19,22,31);
+	height: 100vh;
+	width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#numbers{
+	margin: 0px auto;
+	height: 302px;
+	width: 300px;
+	background-color: rgb(39,44,64);
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap; 
+	border-radius: 7px;
+}
+.tabuleiro{
+  height: 90px;
+	width: 90px;
+  background-color: rgb(19,22,31);
+  margin: 4px;
+  display: flex;
+	justify-content: center;
+  align-items:center;
+}
+p{
+  color: rgb(129,164,224);
+}
